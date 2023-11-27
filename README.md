@@ -1,4 +1,6 @@
 ### Hi there 👋
+<h1> 개발자 정영록입니다. 😄</h1>
+<hr>
 <h3>📚 Tech Stack 📚</h3>
 <p>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
