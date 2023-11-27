@@ -19,7 +19,9 @@
   <a href="https://velog.io/@evan523"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@hyeinisfree"/></a>&nbsp
   <a href="mailto:jyr4941@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kimhyein7110@gmail.com"/></a>
 </p>
- 
+ <br>
+
+ <h3>👩‍💻GitHub Stat & Problem Solving👩‍💻</h3>
 <p align = center >
   <a href="https://github.com/yryryr96/">
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yryryr96&&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true" height="160" />
