@@ -19,7 +19,6 @@
   <a href="https://velog.io/@evan523"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@hyeinisfree"/></a>&nbsp
   <a href="mailto:jyr4941@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kimhyein7110@gmail.com"/></a>
 </p>
- <br>
 
 <h3 align="center">👩‍💻 GitHub Stat & Problem Solving 👩‍💻</h3>
 <p align = center >
