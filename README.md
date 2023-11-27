@@ -11,6 +11,7 @@
   <br>
   <img src="https://img.shields.io/badge/React-2496ED?style=flat-square&logo=React&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/HTML5-D24939?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Vue-11B48A?style=flat-square&logo=Vue&logoColor=white"/></a>&nbsp
 </p>
 
 <h3 align="center">🌈 Follow Me 🌈</h3>
