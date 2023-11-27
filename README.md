@@ -20,3 +20,9 @@
   <a href="mailto:jyr4941@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kimhyein7110@gmail.com"/></a>
 </p>
  
+<p align = center >
+  <a href="https://github.com/yryryr96/">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yryryr96&&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true" height="160" />
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yryryr96&langs_count=6&theme=material-palenight&layout=compact" height="160" />
+  </a> 
+</p>
