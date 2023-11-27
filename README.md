@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
   <br>
   <img src="https://img.shields.io/badge/React-2496ED?style=flat-square&logo=React&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Html-D24939?style=flat-square&logo=Html&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/HTML5-D24939?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp
 </p>
 
 <h3 align="center">🌈 Follow Me 🌈</h3>
