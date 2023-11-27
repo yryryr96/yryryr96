@@ -23,5 +23,7 @@
 <p align = center >
   <a href="https://github.com/yryryr96/">
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yryryr96&&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true" height="160" />
+    [![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/evan523)
   </a> 
 </p>
