@@ -17,7 +17,7 @@
 <h3>📚 Tech Stack </h3>
 
 - Java, Spring Boot
-- MySQL, JPA, QueryDSL, MongoDB
+- MySQL, JPA, QueryDSL, MongoDB, Redis
 - Docker, Github Actions, Kafka
 
 <h3>👩‍💻 Problem Solving</h3>
